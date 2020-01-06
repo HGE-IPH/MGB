@@ -1,0 +1,24 @@
+[general]
+name=MGB
+qgisMinimumVersion=3.0
+qgisMaximumVersion=3.10
+description=MGB is a large scale hydrological model developed by the Large Scale Hydrology research group of IPH-UFRGS.
+version=1.0
+author=HGE-IPH
+email=martinbiancho@hotmail.com
+
+about=MGB is a rainfall-runoff model, using precipitation, air temperature, relative humidity, wind speed, insolation and atmospheric pressure to calculate flow discharge at a given basin.
+
+homepage=https://www.ufrgs.br/lsh/pagina-exemplo-2/what-is-mgb-iph/
+
+# Tags are comma separated with spaces allowed
+tags=
+
+category=Hydrology
+icon=icon.png
+
+# experimental flag
+experimental=False
+
+# deprecated flag (applies to the whole plugin, not just a single version)
+deprecated=False

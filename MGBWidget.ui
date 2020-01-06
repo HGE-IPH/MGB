@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>IPH</class>
+ <widget class="QDockWidget" name="IPH">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1306</width>
+    <height>869</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MGB</string>
+  </property>
+  <widget class="QWidget" name="dockWidgetContents">
+   <layout class="QGridLayout" name="gridLayout">
+    <item row="0" column="0">
+     <widget class="QTabWidget" name="tabWidget">
+      <property name="currentIndex">
+       <number>0</number>
+      </property>
+      <widget class="QWidget" name="tab_4">
+       <attribute name="title">
+        <string>MGB</string>
+       </attribute>
+       <widget class="QTreeWidget" name="treeWidget_2">
+        <property name="geometry">
+         <rect>
+          <x>0</x>
+          <y>0</y>
+          <width>1281</width>
+          <height>801</height>
+         </rect>
+        </property>
+        <property name="acceptDrops">
+         <bool>false</bool>
+        </property>
+        <column>
+         <property name="text">
+          <string> </string>
+         </property>
+        </column>
+        <item>
+         <property name="text">
+          <string>&gt;&gt; About</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Update Unit-catchments Polygon</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>HRCs description</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>ANA data acquisition (Discharge data for Brazil)</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Precipitation</string>
+         </property>
+         <item>
+          <property name="text">
+           <string>Using ANA data (Brazil)</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Using MERGE data (South America)</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Using TRMM data (Global)</string>
+          </property>
+         </item>
+        </item>
+        <item>
+         <property name="text">
+          <string>Discharge</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Climate variables</string>
+         </property>
+         <item>
+          <property name="text">
+           <string>Using INMET climatology database (Brazil)</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Using CRU climatology database (Global)</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Using Daily data</string>
+          </property>
+         </item>
+        </item>
+        <item>
+         <property name="text">
+          <string>Vegetation Parameters</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Soil Parameters</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Create/Edit Simulation Project</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Run Simulation</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Results</string>
+         </property>
+         <item>
+          <property name="text">
+           <string>Compare simulated and observed hydrographs</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Compare flow duration curves</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Visualize calculated hydrographs only</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Visualize calculated flow duration curves only</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Visualize water depth time series (only after Inertial simulation)</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Visualize flooded area time series (only after Inertial simulation)</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Flood postprocessing (only after Inertial simulation)</string>
+          </property>
+         </item>
+        </item>
+        <item>
+         <property name="text">
+          <string>Automatic calibration parameteres</string>
+         </property>
+        </item>
+        <item>
+         <property name="text">
+          <string>Tools</string>
+         </property>
+         <item>
+          <property name="text">
+           <string>Geometry file editor</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>* Flow gauge hydrograph</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>* Base flow filter for flow gauges</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>* Flow duration curves from flow gauges data</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>* Rainfall gauge chart</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Create precipitation data raster</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Internal database</string>
+          </property>
+         </item>
+         <item>
+          <property name="text">
+           <string>Longitudinal profile</string>
+          </property>
+         </item>
+        </item>
+       </widget>
+      </widget>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
