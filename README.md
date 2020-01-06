@@ -5,7 +5,7 @@
 Plugin QGIS desenvolvido para representar processos hidrológicos em bacias hidrogáficas de grande escala.
 
 ## Versões compatíveis do QGIS 
-* 3.4.12 ou superiores.
+* 3.4.12 ou superior.
 
 ## Instalação
 
