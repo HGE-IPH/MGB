@@ -23,4 +23,7 @@ Plugin QGIS desenvolvido para representar processos hidrológicos em bacias hidr
 
 [Manual MGB plugin](https://www.ufrgs.br/hge/wp-content/uploads/2019/03/manual_MGB_2018_QGIS_FINAL_02.pdf)
 
-
+## Contribuidores
+[![@leolaipelt](https://github.com/leolaipelt.png?size=40 "Leonardo Laipelt")](https://github.com/leolaipelt)
+[![@ayansf](https://github.com/github.png?size=40 "Ayan Fleischmann")](https://github.com/ayansf)
+[![@ViniSiqueira](https://github.com/github.png?size=40 "Vinícius Siqueira")](https://github.com/ViniSiquera)
